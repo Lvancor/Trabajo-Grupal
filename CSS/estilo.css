@@ -1,0 +1,75 @@
+/* DONE */
+body {
+    background-color:rgb(237, 247, 236);
+    color:rgb(33, 37, 36);
+
+    font-family: system-ui;
+}
+
+/* DONE */
+header {
+    background-color:rgb(96, 136, 110);
+    color:white;
+    text-align: center;
+
+    padding:15px 20px;
+}
+
+/* DONE */
+#titulo{
+    font-family: serif;
+    font-size: 50px;
+    text-shadow: 3px 5px 5px rgb(72, 95, 87);
+    
+    margin:0px 0px 15px 0px;
+}
+
+#menuPrincipal {
+    background-color:rgb(133, 182, 141);
+
+    border: solid;
+    border-color:white;
+}
+
+ul {
+    list-style: none;
+
+    padding:0px;
+}
+
+li {
+    display:inline;
+
+    margin:0px 15px;
+}
+
+.enlaceMenuPrincipal{
+    text-decoration:none;
+    color:white;
+
+    padding:10px 20px;
+}
+
+.tituloSeccion{
+    background-color:rgb(96, 136, 110);
+    color:white;
+
+    padding:10px;
+}
+
+.articulo{
+    background-color:white;
+    border:1px solid rgb(96, 136, 110);
+
+    margin:0px 0px 10px 0px;
+    padding:10px;
+}
+
+footer{
+    background-color:rgb(96, 136, 110);
+    color:white;
+    text-align: center;
+
+    margin:0px 0px 20px 0px;
+    padding:10px;
+}
