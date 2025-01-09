@@ -37,7 +37,7 @@ ul {
     padding:0px;
 }
 
-li {
+.listaMenu {
     display:inline;
 
     margin:0px 15px;
