@@ -24,6 +24,7 @@ header {
     margin:0px 0px 15px 0px;
 }
 
+/* DONE */
 #menuPrincipal {
     background-color:rgb(133, 182, 141);
 
@@ -37,7 +38,11 @@ ul {
     padding:0px;
 }
 
-.listaMenu {
+list {
+    margin:0px 15px;
+}
+
+.listM {
     display:inline;
 
     margin:0px 15px;
