@@ -16,8 +16,8 @@ header {
 }
 
 .logo {
-    width: 250px;
-    heigh: 200px;
+    width: 150px;
+    heigh: 150px;
 }
 
 /* DONE */
@@ -29,6 +29,10 @@ header {
     margin:0px 0px 15px 0px;
 }
 
+table {
+    aling: center;
+}
+
 /* DONE */
 #menuPrincipal {
     background-color:rgb(133, 182, 141);
@@ -38,10 +42,10 @@ header {
 }
 
 img {
-    text-aling: center;
+    aling: center;
 
-    width: miau;
-    heigh: miau;
+    width: 300px;
+    heigh: 200px;
 }
 
 ul {
