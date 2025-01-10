@@ -37,6 +37,13 @@ header {
     border-color:white;
 }
 
+img {
+    text-aling: center;
+
+    width: miau;
+    heigh: miau;
+}
+
 ul {
     list-style: none;
 
