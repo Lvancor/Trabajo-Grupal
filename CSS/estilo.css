@@ -44,7 +44,7 @@ table{
 
 /*  */
 .planeta {
-    align: center;
+    margin:auto;
 
     width: 300px;
 }
@@ -103,7 +103,7 @@ footer{
     width:50px;
 }
 
-/*  */
+/* DONE */
 a{
     text-decoration:none;
     color:white;
