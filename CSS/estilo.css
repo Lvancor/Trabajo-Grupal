@@ -100,10 +100,11 @@ footer{
 
 /*  */
 .footing {
-    width:10px;
+    width:50px;
 }
 
 /*  */
 a{
     text-decoration:none;
+    color:white;
 }
